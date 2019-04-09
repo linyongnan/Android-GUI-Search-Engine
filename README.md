@@ -1,5 +1,5 @@
 # Android-GUI-Search-Engine
 
-http://173.255.245.197:8000/
+http://www.guigle.com/
 
 Search engines have become an essential part of the web, as they help organize and easily present pertinent information to users. General search engines such as Google allow users to search the entire web for information they need; however, more specific search engines, such as those built for Github, and Google Play, can specifically support developers by allowing them search for and learn from applications similar to those that they are attempting to build themselves. To contribute towards the goal of increasing tools available for mobile application developers, this project proposes a new search engine for Android applications that uses information from apps’ Graphical User Interfaces (GUIs) as queries. The goal of this project will be to generate a web application that will rely on the Apache Lucene1 indexing engine to retrieve relevant applications that contain GUI layouts with similar attributes to those entered in a query. This project will use information from Google Play applications to extract component’s information from APKs.
